@@ -1,0 +1,89 @@
+body {
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	background: url(../image/back.jpg) no-repeat;
+	background-size: cover;
+}
+
+#login-top{
+	background-color: lightyellow;
+	width:100%;
+	height:30px;
+	background:rgba(255,255,255,0.6);
+	line-height: 30px;
+	font-size:10px;
+}
+
+#login-title{
+	width:40%;
+	height:30px;
+	margin: 60px auto;
+	line-height: 30px;
+	font-size:30px;
+	text-align:center;
+}
+
+#login-body {
+	background-color:lightgrey;
+	width: 40%;
+	height: 50%;
+	margin: 0 auto;
+	background:rgba(255,255,255,0.7);
+}
+
+#title {
+	background: url(../image/login_bg.png);
+	width: 100%;
+	height: 44px;
+	text-align: center;
+	line-height: 40px;
+	font-size:20px;
+}
+
+.form-horizontal {
+	width: 100%;
+	height: 77%;
+
+}
+.col-sm-2 control-label{
+	display:inline;
+}
+.col-sm-10{
+	display:inline;
+}
+.form-group{
+	width:100%;
+	height:20%;
+	margin:10px auto;
+	text-align:center;
+	font-size:15px;
+}
+.radio{
+	display:inline;
+}
+.radio-group{
+	width:100%;
+	height:20%;
+	text-align:center;
+	font-size:10px;
+	vertical-align:middle;
+}
+.button-group{
+	width:100%;
+	height:20%;
+	text-align:center;
+	font-size:8px;
+	margin:10px auto;
+}
+.button{
+	display:inline;
+	margin:0 15px;
+
+}
+
+
+
+
+
